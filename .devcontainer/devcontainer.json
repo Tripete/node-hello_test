@@ -10,7 +10,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"MS-vsliveshare.vsliveshare"
+				"MS-vsliveshare.vsliveshare",
+				"ms-vscode-remote.remote-containers"
 			]
 		}
 	}
